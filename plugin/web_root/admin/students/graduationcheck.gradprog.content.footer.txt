@@ -8,4 +8,4 @@
     </div>
 </script>
 
-<script src="/scripts/GraduationProgress/gradprogress.js"></script>
+<script src="<!-- @echo IMAGE_SERVER_URL -->/scripts/graduation-progress/gradprogress.js"></script>

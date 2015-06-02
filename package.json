@@ -1,0 +1,19 @@
+{
+  "name": "graduation-progress",
+  "version": "1.0.0",
+  "description": "Graduation Progress",
+  "main": "",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IronCountySchoolDistrict/graduation-progress.git"
+  },
+  "author": "IronCountySchoolDistrict",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/IronCountySchoolDistrict/graduation-progress/issues"
+  },
+  "homepage": "https://github.com/IronCountySchoolDistrict/graduation-progress#readme"
+}
