@@ -2,10 +2,8 @@
     <div align="center" style="font-family: Verdana, Arial, Helvetica, sans-serif"><b>
         Credits Earned - 9th : ~(*credit_hours;9) | 10th : ~(*credit_hours;10) | 11th : ~(*credit_hours;11) | 12th : ~(*credit_hours;12)<br>
         Total : ~(*credit_hours;9,10,11,12)<br>
-        UBSCT : Math-~(tests;name=UBSCT_Math;score=Math;which=Best;type=Alpha;result=Value)
-        | Read-~(tests;name=UBSCT_Reading;score=Reading;which=Best;type=alpha;result=Value)
-        | Write-~(tests;name=UBSCT_Writing;score=Writing;which=Best;type=Alpha;result=Value)
     </div>
 </script>
+
 
 <script src="/scripts/graduation-progress/js/gradprogress.js"></script>
