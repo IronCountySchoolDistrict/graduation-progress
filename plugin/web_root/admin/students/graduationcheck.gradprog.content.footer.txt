@@ -6,4 +6,13 @@
 </script>
 
 
-<script src="/scripts/graduation-progress/js/gradprogress.js"></script>
+<script>
+    require.config({
+        paths: {
+            graduation: '/scripts/graduation-progress/js/gradprogress'
+        }
+    });
+    require(["graduation"], function(graduation){
+        graduation.default();
+    });
+</script>
